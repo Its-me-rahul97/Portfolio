@@ -96,7 +96,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #6c6c6c;
 }
 
 .overlay-mf {
@@ -213,7 +213,7 @@ a:hover {
   background-color: #fff;
   margin-bottom: 3rem;
   z-index: 2;
-  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 10px 25px 0 rgba(0, 0, 0, 0.06), 0 10px 25px 0 rgba(0, 0, 0, 0.3);
 }
 
 /*------/ Socials /------*/
@@ -793,7 +793,8 @@ a:hover {
 ======================================*/
 
 .counter-box {
-  color: #fff;
+  color: #000;
+  font-weight:600;
   text-align: center;
 }
 
@@ -805,7 +806,7 @@ a:hover {
   height: 60px;
   width: 60px;
   line-height: 1.8;
-  box-shadow: 0 0 0 10px #cde1f8;
+  box-shadow: 0 0 0 10px #0078ff;
 }
 
 .counter-num .counter {
