@@ -44,6 +44,10 @@ a:hover {
   position: relative;
 }
 
+.my_circle{
+  aspect-ratio: 1;
+}
+
 .color-a {
   color: #0078ff;
 }
