@@ -1509,6 +1509,12 @@ footer .credits a {
   box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 0.06), 0 4px 15px 0 rgba(0, 0, 0, 0.3);
 }
 
+.c-card .card-body{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 .c-card:hover{
   scale: 1.03;
   border: 1px solid #79d70f !important;
