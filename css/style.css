@@ -886,7 +886,7 @@ a:hover {
 ======================================*/
 
 .testimonials .owl-carousel .owl-item img {
-  width: auto;
+  width: 100%;
 }
 
 .testimonial-box {
@@ -894,21 +894,20 @@ a:hover {
   text-align: center;
 }
 
-.testimonial-box .author-test {
-  margin-top: 1rem;
-}
-
 .testimonial-box .author-test img {
   margin: 0 auto;
+}
+.testimonial-box .author-test video {
+  width: 100%;
 }
 
 .testimonial-box .author {
   color: #fff;
   text-transform: uppercase;
-  font-weight: 600;
+  font-weight: 900;
   margin: 1rem 0;
   display: block;
-  font-size: 1.4rem;
+  font-size: 1.7rem;
 }
 
 .testimonial-box .comit {
@@ -1541,6 +1540,7 @@ footer .credits a {
 
 .timeline-2 .leadd{
   text-align: start !important;
+  font-size: 12px !important;
 }
 
 /* The circles on the timeline */
